@@ -7,8 +7,8 @@ jQuery plug-in which will slide background image position of an DOM element thro
 Pre-usage:
 ----------
 
-* Step 1: include [jQuery](http://jquery.com/) in your document - `<script type="text/javascript" src="jquery.min.js"></script>`
-* Step 2: include the plugin file - `<script type="text/javascript" src="js/jquery.sideslide-v1.0.js"></script>`
+1. include [jQuery](http://jquery.com/) in your document - `<script type="text/javascript" src="jquery.min.js"></script>`
+2. include the plugin file - `<script type="text/javascript" src="js/jquery.sideslide-v1.0.js"></script>`
 
 ### Demo:
 
