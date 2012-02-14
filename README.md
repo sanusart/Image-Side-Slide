@@ -7,15 +7,16 @@ jQuery plug-in which will slide background image position of an DOM element thro
 Pre-usage:
 ----------
 
-Step 1 
+* Step 1 
 	include jQuery in your document.
-Step 2
+*Step 2
 	include this file.
 
 Example of usage:
 -----------------
  
-jQuery:
+### jQuery:
+
 	$(document).ready(function () {
 		$('.mydiv').sideslide({
 			image: 'http://placehold.it/600x150&text=This+is+test+of+%22Image+Side+Slide%22+Plug-in',
@@ -26,10 +27,12 @@ jQuery:
 		});
 	});
 
-HTML:
+### HTML:
+
 	<div class="mydiv"></div>
 
-CSS:
+### CSS:
+
 	.mydiv {
 		border: none;
 		cursor: pointer;
