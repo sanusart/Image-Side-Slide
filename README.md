@@ -8,7 +8,7 @@ Pre-usage:
 ----------
 
 1. include [jQuery](http://jquery.com/) in your document - `<script type="text/javascript" src="jquery.min.js"></script>`
-2. include the plugin file - `<script type="text/javascript" src="js/jquery.sideslide-v1.0.js"></script>`
+2. include the plugin file - `<script type="text/javascript" src="jquery.sideslide-vX.X.js"></script>`
 
 Demo:
 -----
