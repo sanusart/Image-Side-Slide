@@ -4,12 +4,14 @@ Image Side Slide - jQuery plug-in
 jQuery plug-in which will slide background image position of an DOM element through number of predefined positions.
 
 
-### Pre-usage:
+Pre-usage:
+----------
 
 1. include [jQuery](http://jquery.com/) in your document - `<script type="text/javascript" src="jquery.min.js"></script>`
 2. include the plugin file - `<script type="text/javascript" src="js/jquery.sideslide-v1.0.js"></script>`
 
-### Demo:
+Demo:
+-----
 
 http://jsfiddle.net/paLBA/
 
