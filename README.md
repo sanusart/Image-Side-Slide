@@ -12,7 +12,7 @@ Pre-usage:
 
 ### Demo:
 
-(http://jsfiddle.net/paLBA/)
+http://jsfiddle.net/paLBA/
 
 Example of usage:
 -----------------
