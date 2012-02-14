@@ -10,6 +10,10 @@ Pre-usage:
 * Step 1: include jQuery in your document - `<script type="text/javascript" src="jquery.min.js"></script>`
 * Step 2: include the plugin file - `<script type="text/javascript" src="js/jquery.sideslide-v1.0.js"></script>`
 
+### Demo:
+
+(http://jsfiddle.net/paLBA/)
+
 Example of usage:
 -----------------
  
