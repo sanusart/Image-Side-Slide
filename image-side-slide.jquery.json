@@ -1,0 +1,26 @@
+{
+    "name": "image-side-slide",
+    "title": "jQuery Image Side Slide",
+    "description": "jQuery plug-in which will slide background image position of an DOM element through number of predefined positions.",
+    "keywords": ["image", "slider", "animation"],
+    "version": "v1.0.0",
+    "author": {
+        "name": "Sasha Khamkov",
+        "email": "sanusart@gmail.com",
+        "url": "http://www.sanusart.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/sanusart/Image-Side-Slide/issues",
+    "homepage": "http://www.sanusart.com/products/scripts/image-side-slide-jquery-plug-in/",
+    "demo": "http://jsfiddle.net/paLBA/",
+    "docs": "https://github.com/sanusart/Image-Side-Slide/blob/master/README.md",
+    "download": "http://www.sanusart.com/products/scripts/image-side-slide-jquery-plug-in/",
+    "dependencies": {
+        "jquery": ">=1.6"
+    }
+}
