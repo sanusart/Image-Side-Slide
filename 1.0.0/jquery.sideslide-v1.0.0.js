@@ -1,12 +1,13 @@
 /**
  * Name:       Image Side Slide
- * Version:    1.0
+ * Version:    v1.0.0
  * Dependency: jQuery 1.6+
  * Author:     Sasha Khamkov
  * URL:        http://sanusart.com
  * License:    The MIT License (MIT) - http://www.opensource.org/licenses/MIT
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- Usage:  a) include jQuery in your document.
+ Usage:  
+ a) include jQuery in your document.
  b) include this file.
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  Example:
