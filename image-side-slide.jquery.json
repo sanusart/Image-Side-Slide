@@ -1,5 +1,5 @@
 {
-    "name": "image-side-slide",
+    "name": "sideslide",
     "title": "jQuery Image Side Slide",
     "description": "jQuery plug-in which will slide background image position of an DOM element through number of predefined positions.",
     "keywords": ["image", "slider", "animation"],
